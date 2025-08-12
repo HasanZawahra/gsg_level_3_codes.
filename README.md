@@ -32,3 +32,10 @@ Running Swimming\
 Swimming Football\
 Swimming Running\
 COUNT: 6
+
+## The number of valid schedules formula
+
+In the first day, the number of possible activities is always 3, any other day will only have 2 options.
+
+So the number of combinations is the product of 3 and 2 to the power of the remaining days.\
+**3 * pow(2,n-1)**
