@@ -1,4 +1,3 @@
-//#include "/Users/helal/CLionProjects/untitled2/stdc++.h"
 #include <bits/stdc++.h>
 using namespace std;
 
